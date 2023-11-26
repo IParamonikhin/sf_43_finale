@@ -102,5 +102,5 @@ fastlane/test_output\
 \
 iOSInjectionProject/\
 \
-.lock\
+*.lock\
 # End of https://www.toptal.com/developers/gitignore/api/swift,cocoapods}
